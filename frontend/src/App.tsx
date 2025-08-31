@@ -63,7 +63,7 @@ interface Profile {
   };
 }
 
-const API_BASE_URL = "http://localhost:3001";
+const API_BASE_URL = "https://playground-r08v.onrender.com";
 
 function App() {
   const [profile, setProfile] = useState<Profile | null>(null);

@@ -5,22 +5,10 @@ A full-stack application showcasing a personal profile API with search capabilit
 ## 🚀 Live Demo
 
 - **Frontend**: [Coming Soon - Deploy URL]
-- **API Base**: [Coming Soon - Backend URL]
-- **Health Check**: [Coming Soon - Backend URL]/health
-
-## 📋 Resume
-
-**[Resume Link - Coming Soon]**
+- **API Base**: https://playground-r08v.onrender.com/
+- **Health Check**: https://playground-r08v.onrender.com/health
 
 ## 🏗️ Architecture
-
-### System Overview
-
-┌─────────────────┐ HTTP/REST ┌─────────────────┐ Mongoose ┌─────────────────┐
-│ │ API Calls │ │ ODM │ │
-│ React Frontend │◄──────────────► │ Express.js API │◄──────────────►│ MongoDB Atlas │
-│ (Port 5173) │ │ (Port 3001) │ │ │
-└─────────────────┘ └─────────────────┘ └─────────────────┘
 
 ### Backend
 
